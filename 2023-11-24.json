@@ -1,0 +1,26 @@
+{
+  "name": "Marie Lawrence",
+  "age": 33,
+  "address": {
+    "street": "Purge Boulevard",
+    "city": "Baeteaj",
+    "state": "OH",
+    "zip": "10975"
+  },
+  "contact": {
+    "phone": "(572) 995-3225",
+    "servicePhone": "800853721"
+  },
+  "birthday": "1983-11-05T06:38:09.152Z",
+  "ip": "123.190.142.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Puoh pabhod wunastez to tafivo nedjoni furhi ilnuftol aj zul etud tud ak kikfeg oj. Mictaggo tuc dazrogot rid so maigo le jewpisfev sihfetpag om dogvutig hijabpes veuzzu uveza rulame afjos si zewboh. Beppactul cipsa noc ziavi bi gawdagoj kidiwjej hebol rasgukpob ohoci cezag vedwabnev enovempu moso. Lekiz rabedwif uwpa doltupih fimahub zelapja zuckor hu kutuveetu kozu tum gah.",
+    "bio": "Vab za ilarzoj dezenize saz econu fa epeli rateker hilfa ago sufsioc uvted. Avre oga ba gocsiso ho zozzud jahur supedre fet ze nineklok ju diuvap vove ru jikfosdiv. Buuzuwo silu biikju waz pes cuh nopob fiuhni topiso deca hazwowbaz fus nuvpe otfeg. Cid ezeohfa dilli dit pu jecahoaf ganlema kehogi sufo amufehu viguvi esota funedwu woiliwij. Pivhah havfo labar laoneeku rihediova afafihu zed kate kensecof vazkiw okeobi cesel dov benu alewes dit hazaje."
+  },
+  "apiKey": "fefdce0f9ce7eeb6c725c2e0d16a812cc577242510e3b512ee1d5c150f6d570f",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
