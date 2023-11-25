@@ -1,0 +1,26 @@
+{
+  "name": "Steve Erickson",
+  "age": 20,
+  "address": {
+    "street": "Heviku Plaza",
+    "city": "Urogohus",
+    "state": "VT",
+    "zip": "15409"
+  },
+  "contact": {
+    "phone": "(904) 813-6794",
+    "servicePhone": "800288298"
+  },
+  "birthday": "2005-09-16T01:41:06.010Z",
+  "ip": "213.126.29.199",
+  "foo": "bar",
+  "profile": {
+    "about": "Vejman jadloc meg evufimoj musfod cituba nera ejomi var ake bu hufa ke. Es dop esu tifmi uhahof hebot le osav op vo fiulore jiwu bu jiecike meda pujdav me. Lumowa de ubopuzvo co otunem lan lugso ocoirigol pinugup gim momhebag ivinajva zuj ramkofe fe dij. Tawpuhiz akpazaju gir ze odi pegdeg pemjoh pac egu ibo jazjoub sutcak wuukedu lem.",
+    "bio": "Tiataala todpuw sodup ze bo nijtas uwubal lahebhuf iko azu icbewid cukvih. Bawul joid dab cigeb rehi we pub dej pajteol gom buzfag nethiso jibsut jardok catijsep vomip. Ti wujzonka ul mev rafivdac tewbidih solo tepot vot wetahuja iga wifoz zoejekij bope eh. Hezocpis hi ja bumofur gobujec ivesit poiwlih kociavo zedoci jub aftow epzek zukgut kaphu hojtovnup aseebaiz. Wes tu we ecoto vihpuas laskid maizaba saz evfutwab mubud ud besav gah lisovce gag boh. Feisi mijaj zu cowim risduwfi dubovisa efisu olur ba sihifozi niphed fijtodtew abva."
+  },
+  "apiKey": "14e17500a90a6dc33c0905e04f88beb6e94d3378440ec83c8abfe9bd523870fe",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
