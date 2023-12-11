@@ -1,0 +1,26 @@
+{
+  "name": "Jerome Stokes",
+  "age": 50,
+  "address": {
+    "street": "Towno Extension",
+    "city": "Fanebata",
+    "state": "NV",
+    "zip": "08712"
+  },
+  "contact": {
+    "phone": "(906) 925-9901",
+    "servicePhone": "800383243"
+  },
+  "birthday": "1997-11-05T11:07:03.471Z",
+  "ip": "12.249.32.113",
+  "foo": "bar",
+  "profile": {
+    "about": "Id ruhug lolbag tor titbur ji ibaerola nigu vipug fohe sutnemo pitnoiv vaci uda zibfowad silhab jikoha gogiznud. Si zalpa luwzifgat hasi viwpu bojro hub mo id kew nonef ka ve durevsel gizpujka mi docul. Sidkila bo kigu kiupme fip mijuwfa owevi tocig mimid ninlo cidip felekdos.",
+    "bio": "Fe zori hu udoahe awmig ez tauw jowju anjowfok tos zoivido luc di. Noosucu ci ko ta kukbibkil faba up ref gidcipe cuwwapsob mawzibne nivlikaki malo vabifiha. Vo evifa zubog halvi de ab sec kuzuh epukotuso ce inoseceb je etoole farzeh anooja bocsar rehfiswoc. Re fasmoive ufsuj fib ni ejfijan ro dijepa pip cogogced zurem isuju orewo pasnofib."
+  },
+  "apiKey": "0d6396ec37c0b0780e0985652bd8f8954944c823efbdf0a41e7b24c6315470ae",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
