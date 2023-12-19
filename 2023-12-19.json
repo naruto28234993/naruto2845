@@ -1,0 +1,26 @@
+{
+  "name": "Lloyd Dennis",
+  "age": 50,
+  "address": {
+    "street": "Aseare Terrace",
+    "city": "Umoholo",
+    "state": "AK",
+    "zip": "77535"
+  },
+  "contact": {
+    "phone": "(359) 237-8238",
+    "servicePhone": "800958865"
+  },
+  "birthday": "1974-10-31T09:33:36.048Z",
+  "ip": "136.75.43.101",
+  "foo": "bar",
+  "profile": {
+    "about": "Fek sa as puigesu dukev hepomeja anib zurnuuc buc tazwav jo nono vajwo pah soz sipre gomit. Hiemav liahi kackika tuvumfab musgo wo ruuji zap pij vepog take loluno ka ki. Ginod mitwo etnedub imofakaw ke zaebi za ok imuhaf amse wihifewa ukenanpu uzneb daguw fepvahip tigupa sijum. Ki lail soicaupe pumuli becucir ku lajbib fat cir folsan duzi me dohhu ridu wokdamez zi.",
+    "bio": "Sokle jutcuz revmoz niago pipwahuki sugeh kev ih mub lu hip ga zasfele degozi. Mimo lo uruiwde ar ida gawos didvecir gaj niwe aba der reugi. Ves sihuhzo lafedu pogpi waibire sekib nudah deapu mup fakiz miokpiv ci ubapidna povbu rowvo joctacu."
+  },
+  "apiKey": "f3651b3bd9fda732e3ced9cf719ad97816fa15c1631d913be642f235203406d2",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
