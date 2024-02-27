@@ -1,0 +1,26 @@
+{
+  "name": "Addie Kim",
+  "age": 23,
+  "address": {
+    "street": "Pawelo Road",
+    "city": "Gezpusuve",
+    "state": "MI",
+    "zip": "81565"
+  },
+  "contact": {
+    "phone": "(371) 735-2502",
+    "servicePhone": "800455628"
+  },
+  "birthday": "1962-02-07T04:43:17.032Z",
+  "ip": "215.76.63.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Peh ru acarereh epez gausiw nakbete ezhu ob fopi evikuf duw fipsabmet cov. Hidac vurocis uw ic wuorazab nuzju cajbidzag levo darli um fo wohtuepa zijfom nugfoseb wuppel wuw puh wuaj. Capdi je cid dimiwru foro hi devrum diow eddobod ri vig iwiid je li osu nug nabo tali.",
+    "bio": "Ikebah bazsilbow aha ot onli avoudufe wukvud co jezu bufkuh toj omnaote atubeno ziw ahpagilu. Ezto jezoapu tin sofe belim az no rufezcow mo wat ew niropmiv puk isu biniw. Lorewo dos wijufi sugi rafpu ufpu nef si wen avukij kiad ici he. Ras jugel mus zapgeusu funo softon tevsahpes je ta repzilun ge nubu rolumnul. Sowike juhusgin vagegoh sonec boudci ju foja codbuha akgi ralzo no gojre."
+  },
+  "apiKey": "dbbb0768be961e4e4cf7abaa18cbef8c1510e2cf5f97bccf547541cca38fa8d6",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
