@@ -1,0 +1,26 @@
+{
+  "name": "Ray Frank",
+  "age": 37,
+  "address": {
+    "street": "Fetgo Square",
+    "city": "Zilpuha",
+    "state": "WI",
+    "zip": "20577"
+  },
+  "contact": {
+    "phone": "(748) 899-4515",
+    "servicePhone": "800443123"
+  },
+  "birthday": "2003-09-17T04:40:02.280Z",
+  "ip": "74.55.159.13",
+  "foo": "bar",
+  "profile": {
+    "about": "Vi baaki giwedeco so civwohmi ofo ze et pa iknat palhed da cuj zutho. Mub kir zohu mebwet vug ridhob nipiwve ejomol gakhuf kov na vet keg nitij titeblo uzazja. Uvmu di acupu hac gahja gatop tudjuz kievapit fejavju mi wonoze dinu fozhi no jefmiur bo. Ehi hohub zuh biznoce ufati boso uresi paknocapo wane uk feruih pu kihe sim ot.",
+    "bio": "Van jemij vuloti beje itovojo hisawuri uso ekezan gu nor ci ges bibapa nib. Dumneh cecolo wil juwhinwuf pekarun abhu wudlo levipuc awha ma im lekbes pacsuk huheh zof. Nioni evanewot gasje mupha kucugpig judfi jehunte zegzanmeg dor kibje guwdoto ikiukirir jinepa gehmopta evose mecawu."
+  },
+  "apiKey": "befb33df0a06630affd7b15e32137a49804b22cb6106036e9339f371ab4a4844",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
